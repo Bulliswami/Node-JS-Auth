@@ -1,0 +1,17 @@
+{
+    "companyName":"",
+    "DBAName":"",
+    "ContactFirstName":"",
+    "ContactLastName":"",
+    "ContactEmail":"",
+    "ContactCellNo":"",
+    "BusinessType":"",
+    "FEIN":"",
+    "StreetAddress":"",
+    "City":"",
+    "State":"",
+    "Zip/PostalCode":"",
+    "USDOTNumber":"",
+    "NoofEmployees":"",
+    "NoofDrivers":""
+}
